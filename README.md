@@ -1,2 +1,3 @@
 # idemooo
 pa da počnemo...
+prva izmena
